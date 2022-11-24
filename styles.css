@@ -1,0 +1,51 @@
+
+.main {
+    min-height: 65vh;
+    background-image: linear-gradient(to right bottom, #3F2759, #1C1324, #1C1324);
+}
+
+.content {
+    background-image: linear-gradient(to right bottom, #1C1324, #1C1324, #3F2759);
+}
+
+footer {
+    background-image: linear-gradient(to right bottom, #1C1324, #3F2759, #3F2759);
+    min-height: 65vh;
+
+}
+
+.custom-nav {
+    background-color: transparent;
+}
+
+.dropdown-item {
+    color: #F8F9FA !important;
+    background-color: transparent !important;
+}
+
+.dropdown-menu a:hover {
+    background-color: #3F2759 !important;
+}
+
+.social-icon {
+    height: 3em;
+    width: 3em;
+}
+
+
+.logo {
+    height: 2.7em;
+    width: 2.7em;
+}
+
+.card-image{
+    height: 10em;
+    width: 10em;
+}
+.button{
+    background-color: #3F2759 !important;
+    color: #F8F9FA !important;
+}
+.button:hover{
+    opacity: 0.8;
+}
