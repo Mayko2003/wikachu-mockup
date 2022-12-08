@@ -1,16 +1,6 @@
-
-.main {
-    min-height: 65vh;
-    background-image: linear-gradient(to right bottom, #3F2759, #1C1324, #1C1324);
-}
-
-.content {
-    background-image: linear-gradient(to right bottom, #1C1324, #1C1324, #3F2759);
-}
-
-footer {
-    background-image: linear-gradient(to right bottom, #1C1324, #3F2759, #3F2759);
-    min-height: 65vh;
+body{
+    background: 
+        linear-gradient(to right bottom, #3F2759, #1C1324, #1C1324, #3F2759);
 
 }
 
